@@ -2,7 +2,7 @@ out
 node_modules
 .idea/
 .vscode-test/
-*.vsix
+# *.vsix
 package-lock.json
 .prettierrc
 yarn.lock

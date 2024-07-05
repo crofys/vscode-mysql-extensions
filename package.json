@@ -6,11 +6,12 @@
 	"publisher": "xubai",
 	"icon": "resources/logo.png",
 	"engines": {
+    "node": "16.x",
 		"vscode": "^1.51.0"
 	},
 	"repository": {
     "type": "git",
-    "url": "https://github.com/your-username/your-repository.git"
+    "url": "https://github.com/crofys/vscode-mysql-extensions"
   },
 	"categories": [
 		"Programming Languages",
